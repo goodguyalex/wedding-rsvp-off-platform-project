@@ -14,5 +14,5 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Alex Stewart      | 2 	        |
+| Alex Stewart      | 3 	        |
 
